@@ -2,6 +2,7 @@ package com.javamonks.services;
 
 import com.javamonks.domain.Backlog;
 import com.javamonks.domain.ProjectTask;
+import com.javamonks.exceptions.ProjectNotFoundException;
 import com.javamonks.repository.BacklogRepository;
 import com.javamonks.repository.ProjectRepository;
 import com.javamonks.repository.ProjectTaskRepository;

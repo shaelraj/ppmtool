@@ -1,5 +1,6 @@
 package com.javamonks.services;
 
+import com.javamonks.domain.Backlog;
 import com.javamonks.domain.Project;
 import com.javamonks.domain.User;
 import com.javamonks.exceptions.ProjectIdException;
